@@ -7,7 +7,7 @@ module.exports = {
         128: '32rem',
       },
     },
-  },
+  }, 
   plugins: [],
 }
 
